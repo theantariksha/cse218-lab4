@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 218</string>
+    <string name="text_gps_latitude">Latitude = %f</string>
+    <string name="text_gps_longitude">Longitude = %f</string>
+    <string name="text_gps_altitude">Altitude = %f</string>
+    <string name="text_wifi_signal_strength">WiFi signal strength = %1d</string>
+</resources>
